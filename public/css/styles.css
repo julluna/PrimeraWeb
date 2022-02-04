@@ -434,19 +434,24 @@ article {
 footer h2{
     font-size: 16px;
     color: #666;
+    margin: 2px;
 }
 
 footer p{
-    font-size: 10px;
+    font-size: 9px;
     color: #666;
+    margin: auto 35px ;
 }
 
 footer{
     background-color: #ebebeb;
+    padding-top: 15px;
+    text-align: center;
+    
 }
 
 footer i{
-    margin-top: 30px;
+    margin-top: 35px;
     color: #1259c3;
     font-size: 1.5em;
 }
@@ -454,6 +459,7 @@ footer i{
 .secciones{
     background-color: white;
     text-align: center;
+    width: 100%;
 }
 
 .copyright{
